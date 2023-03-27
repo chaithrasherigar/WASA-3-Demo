@@ -4,6 +4,7 @@ public class Practice {
 @Test
 public void sample()
 {
-	System.out.println("Sample");
+	System.out.println("Sample1");
+	
 }
 }

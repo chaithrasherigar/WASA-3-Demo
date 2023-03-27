@@ -6,5 +6,6 @@ public class DemoGitPull {
 	public void demoGitPull()
 	{
 		System.out.println("pull operations");
+		System.out.println("pull operation !!");
 	}
 }
