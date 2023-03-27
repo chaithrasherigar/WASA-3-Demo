@@ -5,6 +5,6 @@ public class DemoGitPull {
 	@Test
 	public void demoGitPull()
 	{
-		System.out.println("pull operation");
+		System.out.println("pull operations");
 	}
 }
